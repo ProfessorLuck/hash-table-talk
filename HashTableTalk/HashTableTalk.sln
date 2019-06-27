@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableTalk", "HashTableTalk\HashTableTalk.csproj", "{2153AC53-4899-4B50-8004-240EE540121B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2153AC53-4899-4B50-8004-240EE540121B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2153AC53-4899-4B50-8004-240EE540121B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2153AC53-4899-4B50-8004-240EE540121B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2153AC53-4899-4B50-8004-240EE540121B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1551B0B9-19EE-4A81-B3DF-6181E44055AE}
+	EndGlobalSection
+EndGlobal
